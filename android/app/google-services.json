@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013064490856",
+    "project_id": "tnstc-cf4a7",
+    "storage_bucket": "tnstc-cf4a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013064490856:android:e381f83e9e8bf4b0ad40dd",
+        "android_client_info": {
+          "package_name": "com.example.tnstc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSL-0JUMeit_14zFLrqN-MK_0pNX2feU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
