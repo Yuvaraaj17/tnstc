@@ -58,7 +58,6 @@ class _AppState extends State<App> {
                     ),
                   ],
                 ),
-                drawer: const NavDrawer(),
               )
           )
       ),
